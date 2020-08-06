@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>Application</title>
+</head>
+<body>
+JS!! Welcome ${name}
+</body>
+</html>

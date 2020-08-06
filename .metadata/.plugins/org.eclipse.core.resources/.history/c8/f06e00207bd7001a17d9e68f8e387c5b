@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Application</title>
+</head>
+<body>
+<form>
+Name:<input type="text" name="name"/>
+<input type="Submit"/>
+</form>
+</body>
+</html>
